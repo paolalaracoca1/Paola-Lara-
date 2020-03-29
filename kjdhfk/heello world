@@ -1,0 +1,78 @@
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Prueba HTML</title>
+		<style type="text/css">
+			div{
+				display: flex;
+			}
+			section{
+				width: 50%
+			}
+			body{
+                    background-image: url(WhatsApp%20Image%202020-03-17%20at%2010.20.48%20PM.jpeg)
+    
+			}
+			p{
+                background-color: azure
+				color:black;
+			}
+			h1{
+                background-color: beige
+				color:pink;
+			}
+			header{
+				background-color:aliceblue;
+			}
+			article{
+				background-color:aliceblue;
+                width:"100"
+			}
+			aside{
+                
+				width="100"
+                
+			}
+			footer{
+				background-color: #CCFF66;
+			}
+
+		</style>
+	</head>
+	<body>
+		<img src="C:\Users\paola\OneDrive\Escritorio\kjdhfk\this is.jpg">
+		<header>
+			<h1><center>BIENVENIDO</center></h1>
+			<nav> 
+				<ul>
+					<li>Ramos</li>
+					<li>Decoraciones</li>
+					<li>Arreglos</li>
+					<li>Imagenes</li>
+					<li>Precios</li>
+					<li>Informacion</li>
+				</ul>
+		    </nav>
+		</header>
+
+		<div>
+			<section>
+				<article>
+					<h2>Dulce Detalle</h2>
+					<p>En Dulce Detalle nos preocupamos por hacerte feliz</p>
+				</article>
+				<article>
+					<h2>:)</h2>
+					<p>Gracias por visitar nuestra pagina</p>
+				</article>
+			</section>
+			<aside>
+					<img src="C:\Users\paola\OneDrive\Escritorio\kjdhfk\girasol.jpg">	
+			</aside>
+		</div>
+		<footer>
+			<p>Creditos: yo</p>
+		</footer>
+		
+	</body>
+</hyml>
